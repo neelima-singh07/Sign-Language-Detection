@@ -30,9 +30,7 @@ env/
 ENV/
 .venv/
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
+
 
 
 
@@ -80,10 +78,7 @@ temp/
 .env.test.local
 .env.production.local
 
-# TensorFlow/Keras
-*.h5
-*.hdf5
-checkpoints/
+
 
 # Cache
 .cache/
