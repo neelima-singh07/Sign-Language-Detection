@@ -34,11 +34,7 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Model files (large trained models)
-models/*.h5
-models/*.pkl
-models/*.joblib
-models/*.model
+
 
 # Dataset (exclude large image datasets)
 Dataset/
